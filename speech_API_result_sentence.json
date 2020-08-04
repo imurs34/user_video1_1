@@ -1,0 +1,4035 @@
+[
+  {
+    "id": 0,
+    "start": 0,
+    "end": 12.6,
+    "text": "Welcome back to Quantum Mechanics for everyone.",
+    "words": [
+      {
+        "startTime": 9.7,
+        "endTime": 10.3,
+        "word": "Welcome"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.5,
+        "word": "back"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.6,
+        "word": "to"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.1,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.1,
+        "word": "Mechanics"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 12.0,
+        "word": "for"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.6,
+        "word": "everyone."
+      }
+    ],
+    "length": 12.6
+  },
+  {
+    "id": 1,
+    "start": 12.6,
+    "end": 12.9,
+    "text": "Today.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.3,
+        "word": "Today."
+      }
+    ],
+    "length": 0.3000000000000007
+  },
+  {
+    "id": 2,
+    "start": 12.9,
+    "end": 18.7,
+    "text": "We're going to be talking about the crime world around us your everyday encounters with physics and particular with quantum physics.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.3,
+        "word": "We're"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.4,
+        "word": "going"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.5,
+        "word": "to"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.6,
+        "word": "be"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "talking"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.0,
+        "word": "about"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "the"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "crime"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "world"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "around"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "us"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.6,
+        "word": "your"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "everyday"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.1,
+        "word": "encounters"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.7,
+        "word": "with"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.2,
+        "word": "physics"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "and"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.9,
+        "word": "particular"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.0,
+        "word": "with"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.4,
+        "word": "quantum"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.8,
+        "word": "physics."
+      }
+    ],
+    "length": 5.799999999999999
+  },
+  {
+    "id": 3,
+    "start": 18.7,
+    "end": 55.1,
+    "text": "And what I'm going to be doing is showing you a top 10 list of the top 10 things that use quantum mechanics that you encounter in your everyday life starting with number 10 DVDs DVDs employee a particular physics phenomenon called a fraction and the way that you can see that as if you shine light on a DVD it actually works better with a CD than a DVD but those are a little bit harder to find you will see that the white light is going to separate into its constituent colors, which are the colors of the rainbow and this occurs due to a process called to fraction.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "And"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "what"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "I'm"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.0,
+        "word": "going"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "to"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "be"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "doing"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.7,
+        "word": "is"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "showing"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "you"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "a"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.5,
+        "word": "top"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.8,
+        "word": "10"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "list"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.8,
+        "word": "of"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "the"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "top"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.5,
+        "word": "10"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "things"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.2,
+        "word": "that"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 6.0,
+        "word": "use"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.4,
+        "word": "quantum"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.9,
+        "word": "mechanics"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "that"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.2,
+        "word": "you"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.5,
+        "word": "encounter"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.0,
+        "word": "in"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.1,
+        "word": "your"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.5,
+        "word": "everyday"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.9,
+        "word": "life"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 10.2,
+        "word": "starting"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.5,
+        "word": "with"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.1,
+        "word": "number"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.4,
+        "word": "10"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 13.2,
+        "word": "DVDs"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 14.5,
+        "word": "DVDs"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 15.4,
+        "word": "employee"
+      },
+      {
+        "startTime": 15.4,
+        "endTime": 16.0,
+        "word": "a"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 17.2,
+        "word": "particular"
+      },
+      {
+        "startTime": 17.2,
+        "endTime": 17.6,
+        "word": "physics"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 18.1,
+        "word": "phenomenon"
+      },
+      {
+        "startTime": 18.1,
+        "endTime": 18.4,
+        "word": "called"
+      },
+      {
+        "startTime": 18.4,
+        "endTime": 18.5,
+        "word": "a"
+      },
+      {
+        "startTime": 18.5,
+        "endTime": 19.2,
+        "word": "fraction"
+      },
+      {
+        "startTime": 19.2,
+        "endTime": 20.6,
+        "word": "and"
+      },
+      {
+        "startTime": 20.6,
+        "endTime": 20.7,
+        "word": "the"
+      },
+      {
+        "startTime": 20.7,
+        "endTime": 20.8,
+        "word": "way"
+      },
+      {
+        "startTime": 20.8,
+        "endTime": 20.9,
+        "word": "that"
+      },
+      {
+        "startTime": 20.9,
+        "endTime": 21.0,
+        "word": "you"
+      },
+      {
+        "startTime": 21.0,
+        "endTime": 21.1,
+        "word": "can"
+      },
+      {
+        "startTime": 21.1,
+        "endTime": 21.3,
+        "word": "see"
+      },
+      {
+        "startTime": 21.3,
+        "endTime": 21.5,
+        "word": "that"
+      },
+      {
+        "startTime": 21.5,
+        "endTime": 21.7,
+        "word": "as"
+      },
+      {
+        "startTime": 21.7,
+        "endTime": 21.8,
+        "word": "if"
+      },
+      {
+        "startTime": 21.8,
+        "endTime": 22.0,
+        "word": "you"
+      },
+      {
+        "startTime": 22.0,
+        "endTime": 22.2,
+        "word": "shine"
+      },
+      {
+        "startTime": 22.2,
+        "endTime": 22.7,
+        "word": "light"
+      },
+      {
+        "startTime": 22.7,
+        "endTime": 22.8,
+        "word": "on"
+      },
+      {
+        "startTime": 22.8,
+        "endTime": 22.9,
+        "word": "a"
+      },
+      {
+        "startTime": 22.9,
+        "endTime": 23.5,
+        "word": "DVD"
+      },
+      {
+        "startTime": 23.5,
+        "endTime": 23.9,
+        "word": "it"
+      },
+      {
+        "startTime": 23.9,
+        "endTime": 24.3,
+        "word": "actually"
+      },
+      {
+        "startTime": 24.3,
+        "endTime": 24.5,
+        "word": "works"
+      },
+      {
+        "startTime": 24.5,
+        "endTime": 24.5,
+        "word": "better"
+      },
+      {
+        "startTime": 24.5,
+        "endTime": 24.8,
+        "word": "with"
+      },
+      {
+        "startTime": 24.8,
+        "endTime": 24.9,
+        "word": "a"
+      },
+      {
+        "startTime": 24.9,
+        "endTime": 25.3,
+        "word": "CD"
+      },
+      {
+        "startTime": 25.3,
+        "endTime": 25.5,
+        "word": "than"
+      },
+      {
+        "startTime": 25.5,
+        "endTime": 25.6,
+        "word": "a"
+      },
+      {
+        "startTime": 25.6,
+        "endTime": 26.1,
+        "word": "DVD"
+      },
+      {
+        "startTime": 26.1,
+        "endTime": 26.2,
+        "word": "but"
+      },
+      {
+        "startTime": 26.2,
+        "endTime": 26.5,
+        "word": "those"
+      },
+      {
+        "startTime": 26.5,
+        "endTime": 26.6,
+        "word": "are"
+      },
+      {
+        "startTime": 26.6,
+        "endTime": 26.6,
+        "word": "a"
+      },
+      {
+        "startTime": 26.6,
+        "endTime": 26.7,
+        "word": "little"
+      },
+      {
+        "startTime": 26.7,
+        "endTime": 26.9,
+        "word": "bit"
+      },
+      {
+        "startTime": 26.9,
+        "endTime": 27.3,
+        "word": "harder"
+      },
+      {
+        "startTime": 27.3,
+        "endTime": 27.4,
+        "word": "to"
+      },
+      {
+        "startTime": 27.4,
+        "endTime": 27.8,
+        "word": "find"
+      },
+      {
+        "startTime": 27.8,
+        "endTime": 28.6,
+        "word": "you"
+      },
+      {
+        "startTime": 28.6,
+        "endTime": 28.8,
+        "word": "will"
+      },
+      {
+        "startTime": 28.8,
+        "endTime": 28.9,
+        "word": "see"
+      },
+      {
+        "startTime": 28.9,
+        "endTime": 29.1,
+        "word": "that"
+      },
+      {
+        "startTime": 29.1,
+        "endTime": 29.2,
+        "word": "the"
+      },
+      {
+        "startTime": 29.2,
+        "endTime": 29.4,
+        "word": "white"
+      },
+      {
+        "startTime": 29.4,
+        "endTime": 29.6,
+        "word": "light"
+      },
+      {
+        "startTime": 29.6,
+        "endTime": 29.7,
+        "word": "is"
+      },
+      {
+        "startTime": 29.7,
+        "endTime": 29.8,
+        "word": "going"
+      },
+      {
+        "startTime": 29.8,
+        "endTime": 29.9,
+        "word": "to"
+      },
+      {
+        "startTime": 29.9,
+        "endTime": 30.3,
+        "word": "separate"
+      },
+      {
+        "startTime": 30.3,
+        "endTime": 30.5,
+        "word": "into"
+      },
+      {
+        "startTime": 30.5,
+        "endTime": 30.7,
+        "word": "its"
+      },
+      {
+        "startTime": 30.7,
+        "endTime": 30.9,
+        "word": "constituent"
+      },
+      {
+        "startTime": 30.9,
+        "endTime": 31.8,
+        "word": "colors,"
+      },
+      {
+        "startTime": 31.8,
+        "endTime": 32.1,
+        "word": "which"
+      },
+      {
+        "startTime": 32.1,
+        "endTime": 32.2,
+        "word": "are"
+      },
+      {
+        "startTime": 32.2,
+        "endTime": 32.3,
+        "word": "the"
+      },
+      {
+        "startTime": 32.3,
+        "endTime": 32.6,
+        "word": "colors"
+      },
+      {
+        "startTime": 32.6,
+        "endTime": 32.7,
+        "word": "of"
+      },
+      {
+        "startTime": 32.7,
+        "endTime": 32.8,
+        "word": "the"
+      },
+      {
+        "startTime": 32.8,
+        "endTime": 32.9,
+        "word": "rainbow"
+      },
+      {
+        "startTime": 32.9,
+        "endTime": 33.9,
+        "word": "and"
+      },
+      {
+        "startTime": 33.9,
+        "endTime": 34.1,
+        "word": "this"
+      },
+      {
+        "startTime": 34.1,
+        "endTime": 34.7,
+        "word": "occurs"
+      },
+      {
+        "startTime": 34.7,
+        "endTime": 34.8,
+        "word": "due"
+      },
+      {
+        "startTime": 34.8,
+        "endTime": 35.0,
+        "word": "to"
+      },
+      {
+        "startTime": 35.0,
+        "endTime": 35.0,
+        "word": "a"
+      },
+      {
+        "startTime": 35.0,
+        "endTime": 35.5,
+        "word": "process"
+      },
+      {
+        "startTime": 35.5,
+        "endTime": 35.7,
+        "word": "called"
+      },
+      {
+        "startTime": 35.7,
+        "endTime": 35.9,
+        "word": "to"
+      },
+      {
+        "startTime": 35.9,
+        "endTime": 36.4,
+        "word": "fraction."
+      }
+    ],
+    "length": 36.400000000000006
+  },
+  {
+    "id": 4,
+    "start": 55.1,
+    "end": 59.0,
+    "text": "We're going to describe this process using our quad Siri in module 3.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "We're"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "going"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.8,
+        "word": "to"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "describe"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "this"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.6,
+        "word": "process"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.2,
+        "word": "using"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "our"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.5,
+        "word": "quad"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.0,
+        "word": "Siri"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "word": "in"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.5,
+        "word": "module"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.9,
+        "word": "3."
+      }
+    ],
+    "length": 3.8999999999999986
+  },
+  {
+    "id": 5,
+    "start": 59.0,
+    "end": 66.4,
+    "text": "The quantum theory can describe not only diffraction but all other Optics related interference phenomena as well.",
+    "words": [
+      {
+        "startTime": 0.7,
+        "endTime": 1.1,
+        "word": "The"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "quantum"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "theory"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "can"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.2,
+        "word": "describe"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "not"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "only"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.1,
+        "word": "diffraction"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "but"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.4,
+        "word": "all"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "other"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.1,
+        "word": "Optics"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.6,
+        "word": "related"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.1,
+        "word": "interference"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.8,
+        "word": "phenomena"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 7.0,
+        "word": "as"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.4,
+        "word": "well."
+      }
+    ],
+    "length": 7.400000000000006
+  },
+  {
+    "id": 6,
+    "start": 66.4,
+    "end": 68.8,
+    "text": "And on the right here.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.4,
+        "word": "And"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "on"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "the"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "right"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "here."
+      }
+    ],
+    "length": 2.3999999999999915
+  },
+  {
+    "id": 7,
+    "start": 68.8,
+    "end": 77.1,
+    "text": "We have a picture of a CD that is showing some of those rainbow light patterns number 9 is partial reflection of light.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "We"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.3,
+        "word": "have"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.4,
+        "word": "a"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.7,
+        "word": "picture"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.1,
+        "word": "of"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "a"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.7,
+        "word": "CD"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "that"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "is"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "showing"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "some"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "of"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "those"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.5,
+        "word": "rainbow"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "light"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.4,
+        "word": "patterns"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.4,
+        "word": "number"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 6.0,
+        "word": "9"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.9,
+        "word": "is"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.4,
+        "word": "partial"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.9,
+        "word": "reflection"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.0,
+        "word": "of"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.3,
+        "word": "light."
+      }
+    ],
+    "length": 8.299999999999997
+  },
+  {
+    "id": 8,
+    "start": 77.1,
+    "end": 80.0,
+    "text": "You probably have seen this where you look at a mirror at a window.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "You"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.7,
+        "word": "probably"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "have"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "seen"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "this"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.6,
+        "word": "where"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.7,
+        "word": "you"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "look"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "at"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "a"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "mirror"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.6,
+        "word": "at"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "a"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "window."
+      }
+    ],
+    "length": 2.9000000000000057
+  },
+  {
+    "id": 9,
+    "start": 80.0,
+    "end": 105.2,
+    "text": " during the day you pretty much can see through the window but at night it acts like a mirror and reflects back at you but turns out it does that during the day too if you look closely you can also see your reflection is shown in the picture here so light has this to fold procedure where it does what's called Parson reflection it sometimes or flex and it sometimes transmits through the window and",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "during"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "the"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "day"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "you"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.9,
+        "word": "pretty"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "much"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.2,
+        "word": "can"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "see"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "through"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.7,
+        "word": "the"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.1,
+        "word": "window"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "but"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "at"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "night"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.8,
+        "word": "it"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "acts"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.1,
+        "word": "like"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.3,
+        "word": "a"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "mirror"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "and"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.1,
+        "word": "reflects"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.4,
+        "word": "back"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.6,
+        "word": "at"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "you"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.5,
+        "word": "but"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.8,
+        "word": "turns"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.9,
+        "word": "out"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 7.9,
+        "word": "it"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.2,
+        "word": "does"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.4,
+        "word": "that"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.7,
+        "word": "during"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.7,
+        "word": "the"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.8,
+        "word": "day"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.2,
+        "word": "too"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.3,
+        "word": "if"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.5,
+        "word": "you"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.6,
+        "word": "look"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.0,
+        "word": "closely"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.1,
+        "word": "you"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.2,
+        "word": "can"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.4,
+        "word": "also"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.7,
+        "word": "see"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.7,
+        "word": "your"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 11.0,
+        "word": "reflection"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.5,
+        "word": "is"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.7,
+        "word": "shown"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.7,
+        "word": "in"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.9,
+        "word": "the"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.1,
+        "word": "picture"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.5,
+        "word": "here"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 13.5,
+        "word": "so"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 14.1,
+        "word": "light"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.4,
+        "word": "has"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.6,
+        "word": "this"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 15.2,
+        "word": "to"
+      },
+      {
+        "startTime": 15.2,
+        "endTime": 15.6,
+        "word": "fold"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 17.1,
+        "word": "procedure"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.7,
+        "word": "where"
+      },
+      {
+        "startTime": 17.7,
+        "endTime": 18.5,
+        "word": "it"
+      },
+      {
+        "startTime": 18.5,
+        "endTime": 18.8,
+        "word": "does"
+      },
+      {
+        "startTime": 18.8,
+        "endTime": 19.0,
+        "word": "what's"
+      },
+      {
+        "startTime": 19.0,
+        "endTime": 19.0,
+        "word": "called"
+      },
+      {
+        "startTime": 19.0,
+        "endTime": 19.6,
+        "word": "Parson"
+      },
+      {
+        "startTime": 19.6,
+        "endTime": 20.1,
+        "word": "reflection"
+      },
+      {
+        "startTime": 20.1,
+        "endTime": 20.3,
+        "word": "it"
+      },
+      {
+        "startTime": 20.3,
+        "endTime": 20.7,
+        "word": "sometimes"
+      },
+      {
+        "startTime": 20.7,
+        "endTime": 20.8,
+        "word": "or"
+      },
+      {
+        "startTime": 20.8,
+        "endTime": 21.2,
+        "word": "flex"
+      },
+      {
+        "startTime": 21.2,
+        "endTime": 21.3,
+        "word": "and"
+      },
+      {
+        "startTime": 21.3,
+        "endTime": 21.4,
+        "word": "it"
+      },
+      {
+        "startTime": 21.4,
+        "endTime": 21.6,
+        "word": "sometimes"
+      },
+      {
+        "startTime": 21.6,
+        "endTime": 22.5,
+        "word": "transmits"
+      },
+      {
+        "startTime": 22.5,
+        "endTime": 22.6,
+        "word": "through"
+      },
+      {
+        "startTime": 22.6,
+        "endTime": 23.0,
+        "word": "the"
+      },
+      {
+        "startTime": 23.0,
+        "endTime": 23.5,
+        "word": "window"
+      },
+      {
+        "startTime": 23.5,
+        "endTime": 25.2,
+        "word": "and"
+      }
+    ],
+    "length": 25.200000000000003
+  },
+  {
+    "id": 10,
+    "start": 105.2,
+    "end": 122.3,
+    "text": " This actually results from an interference phenomenon between Reflections off the top and the bottom surface of the glass and it can be explained entirely with our quantum theory of light and we go through the details of this in the third module of the course.",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 1.7,
+        "word": "This"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "actually"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.5,
+        "word": "results"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "from"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.8,
+        "word": "an"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.3,
+        "word": "interference"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.8,
+        "word": "phenomenon"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "between"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.8,
+        "word": "Reflections"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 4.9,
+        "word": "off"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.1,
+        "word": "the"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "top"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "and"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "the"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.8,
+        "word": "bottom"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.3,
+        "word": "surface"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.6,
+        "word": "of"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.7,
+        "word": "the"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.2,
+        "word": "glass"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 8.1,
+        "word": "and"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.2,
+        "word": "it"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.4,
+        "word": "can"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.4,
+        "word": "be"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 9.2,
+        "word": "explained"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 10.2,
+        "word": "entirely"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.3,
+        "word": "with"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.5,
+        "word": "our"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.8,
+        "word": "quantum"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.2,
+        "word": "theory"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.7,
+        "word": "of"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.0,
+        "word": "light"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 13.0,
+        "word": "and"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.1,
+        "word": "we"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.2,
+        "word": "go"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.4,
+        "word": "through"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 13.5,
+        "word": "the"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.7,
+        "word": "details"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.1,
+        "word": "of"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.3,
+        "word": "this"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.5,
+        "word": "in"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 14.7,
+        "word": "the"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 15.9,
+        "word": "third"
+      },
+      {
+        "startTime": 15.9,
+        "endTime": 16.4,
+        "word": "module"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 16.6,
+        "word": "of"
+      },
+      {
+        "startTime": 16.6,
+        "endTime": 16.8,
+        "word": "the"
+      },
+      {
+        "startTime": 16.8,
+        "endTime": 17.1,
+        "word": "course."
+      }
+    ],
+    "length": 17.099999999999994
+  },
+  {
+    "id": 11,
+    "start": 122.3,
+    "end": 147.9,
+    "text": " Number 8 transparent Windows the windows that you look through are made out of window glass which is an amorphous solid that is transparent to light because of the way that the Silicon in the oxygen atoms that make up the window glass arrange themselves in the solid state glass is an insulator which means that electrical current will not flow through it.",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 2.0,
+        "word": "Number"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "8"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.6,
+        "word": "transparent"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.7,
+        "word": "Windows"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.2,
+        "word": "the"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.8,
+        "word": "windows"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "that"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.5,
+        "word": "you"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.3,
+        "word": "look"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "through"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 8.3,
+        "word": "are"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.6,
+        "word": "made"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.7,
+        "word": "out"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.8,
+        "word": "of"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.1,
+        "word": "window"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.3,
+        "word": "glass"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.8,
+        "word": "which"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 9.9,
+        "word": "is"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.0,
+        "word": "an"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.2,
+        "word": "amorphous"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.5,
+        "word": "solid"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.1,
+        "word": "that"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.3,
+        "word": "is"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.7,
+        "word": "transparent"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.0,
+        "word": "to"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.3,
+        "word": "light"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.7,
+        "word": "because"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.8,
+        "word": "of"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 12.9,
+        "word": "the"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.0,
+        "word": "way"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.3,
+        "word": "that"
+      },
+      {
+        "startTime": 13.3,
+        "endTime": 13.5,
+        "word": "the"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 14.1,
+        "word": "Silicon"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.2,
+        "word": "in"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.3,
+        "word": "the"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.9,
+        "word": "oxygen"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 15.5,
+        "word": "atoms"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 16.2,
+        "word": "that"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.3,
+        "word": "make"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 16.5,
+        "word": "up"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 16.7,
+        "word": "the"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 16.9,
+        "word": "window"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.1,
+        "word": "glass"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.8,
+        "word": "arrange"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 18.1,
+        "word": "themselves"
+      },
+      {
+        "startTime": 18.1,
+        "endTime": 19.5,
+        "word": "in"
+      },
+      {
+        "startTime": 19.5,
+        "endTime": 19.7,
+        "word": "the"
+      },
+      {
+        "startTime": 19.7,
+        "endTime": 20.1,
+        "word": "solid"
+      },
+      {
+        "startTime": 20.1,
+        "endTime": 20.2,
+        "word": "state"
+      },
+      {
+        "startTime": 20.2,
+        "endTime": 21.4,
+        "word": "glass"
+      },
+      {
+        "startTime": 21.4,
+        "endTime": 21.5,
+        "word": "is"
+      },
+      {
+        "startTime": 21.5,
+        "endTime": 21.6,
+        "word": "an"
+      },
+      {
+        "startTime": 21.6,
+        "endTime": 22.1,
+        "word": "insulator"
+      },
+      {
+        "startTime": 22.1,
+        "endTime": 22.6,
+        "word": "which"
+      },
+      {
+        "startTime": 22.6,
+        "endTime": 22.9,
+        "word": "means"
+      },
+      {
+        "startTime": 22.9,
+        "endTime": 23.0,
+        "word": "that"
+      },
+      {
+        "startTime": 23.0,
+        "endTime": 24.1,
+        "word": "electrical"
+      },
+      {
+        "startTime": 24.1,
+        "endTime": 24.5,
+        "word": "current"
+      },
+      {
+        "startTime": 24.5,
+        "endTime": 24.6,
+        "word": "will"
+      },
+      {
+        "startTime": 24.6,
+        "endTime": 24.8,
+        "word": "not"
+      },
+      {
+        "startTime": 24.8,
+        "endTime": 25.1,
+        "word": "flow"
+      },
+      {
+        "startTime": 25.1,
+        "endTime": 25.2,
+        "word": "through"
+      },
+      {
+        "startTime": 25.2,
+        "endTime": 25.6,
+        "word": "it."
+      }
+    ],
+    "length": 25.60000000000001
+  },
+  {
+    "id": 12,
+    "start": 147.9,
+    "end": 161.1,
+    "text": "It turns out the glass so we'll absorb ultraviolet light even though it lets visible light through and this is why you don't get a sunburn when you driving your car on a sunny day unless of course you open your window and stick your arm out.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "It"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.2,
+        "word": "turns"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "out"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "the"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "glass"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "so"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.6,
+        "word": "we'll"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.0,
+        "word": "absorb"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.7,
+        "word": "ultraviolet"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.3,
+        "word": "light"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.6,
+        "word": "even"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "though"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.9,
+        "word": "it"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.2,
+        "word": "lets"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.6,
+        "word": "visible"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "light"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.2,
+        "word": "through"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.9,
+        "word": "and"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "this"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.2,
+        "word": "is"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.4,
+        "word": "why"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "you"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.6,
+        "word": "don't"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.9,
+        "word": "get"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.0,
+        "word": "a"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.3,
+        "word": "sunburn"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.6,
+        "word": "when"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.7,
+        "word": "you"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.1,
+        "word": "driving"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.3,
+        "word": "your"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.5,
+        "word": "car"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.8,
+        "word": "on"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 9.8,
+        "word": "a"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.1,
+        "word": "sunny"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.2,
+        "word": "day"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 11.3,
+        "word": "unless"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.5,
+        "word": "of"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.6,
+        "word": "course"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 11.9,
+        "word": "you"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.1,
+        "word": "open"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.2,
+        "word": "your"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.4,
+        "word": "window"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.6,
+        "word": "and"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 12.8,
+        "word": "stick"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 12.9,
+        "word": "your"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.0,
+        "word": "arm"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.2,
+        "word": "out."
+      }
+    ],
+    "length": 13.199999999999989
+  },
+  {
+    "id": 13,
+    "start": 161.1,
+    "end": 180.0,
+    "text": " And the reason why it behaves this way is described completely by quantum mechanics, but we're not going to have an opportunity to go through those details in this class number 7 on our list is Metals similar to Glass metals.",
+    "words": [
+      {
+        "startTime": 1.1,
+        "endTime": 1.8,
+        "word": "And"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "the"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "reason"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.7,
+        "word": "why"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.1,
+        "word": "it"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.7,
+        "word": "behaves"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "this"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "way"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.6,
+        "word": "is"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.6,
+        "word": "described"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.2,
+        "word": "completely"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.4,
+        "word": "by"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.7,
+        "word": "quantum"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.3,
+        "word": "mechanics,"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.8,
+        "word": "but"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.0,
+        "word": "we're"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.2,
+        "word": "not"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.3,
+        "word": "going"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "to"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.5,
+        "word": "have"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.6,
+        "word": "an"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.6,
+        "word": "opportunity"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.1,
+        "word": "to"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.3,
+        "word": "go"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.5,
+        "word": "through"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.6,
+        "word": "those"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.3,
+        "word": "details"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.6,
+        "word": "in"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.9,
+        "word": "this"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.4,
+        "word": "class"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 12.7,
+        "word": "number"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.7,
+        "word": "7"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.3,
+        "word": "on"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.4,
+        "word": "our"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.9,
+        "word": "list"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 15.6,
+        "word": "is"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 16.3,
+        "word": "Metals"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 17.2,
+        "word": "similar"
+      },
+      {
+        "startTime": 17.2,
+        "endTime": 17.5,
+        "word": "to"
+      },
+      {
+        "startTime": 17.5,
+        "endTime": 17.8,
+        "word": "Glass"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 18.9,
+        "word": "metals."
+      }
+    ],
+    "length": 18.900000000000006
+  },
+  {
+    "id": 14,
+    "start": 180.0,
+    "end": 189.6,
+    "text": " Which conduct electricity do so because of the way in which they are a solid they have with called a sea of electrons in them.",
+    "words": [
+      {
+        "startTime": 1.1,
+        "endTime": 1.6,
+        "word": "Which"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.1,
+        "word": "conduct"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "electricity"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.1,
+        "word": "do"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "so"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.6,
+        "word": "because"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.2,
+        "word": "of"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "the"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "way"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.8,
+        "word": "in"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "which"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 6.1,
+        "word": "they"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.3,
+        "word": "are"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "a"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.0,
+        "word": "solid"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.5,
+        "word": "they"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.7,
+        "word": "have"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.9,
+        "word": "with"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.2,
+        "word": "called"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.3,
+        "word": "a"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "sea"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.5,
+        "word": "of"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.6,
+        "word": "electrons"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.3,
+        "word": "in"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.6,
+        "word": "them."
+      }
+    ],
+    "length": 9.599999999999994
+  },
+  {
+    "id": 15,
+    "start": 189.6,
+    "end": 198.9,
+    "text": "This electron sea is Created from the Pauli Exclusion Principle, which some of you may have heard from and since the electrons are so-called fermions.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "This"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 1.1,
+        "word": "electron"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "sea"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.6,
+        "word": "is"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.1,
+        "word": "Created"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "from"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.5,
+        "word": "the"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.9,
+        "word": "Pauli"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 2.9,
+        "word": "Exclusion"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.5,
+        "word": "Principle,"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.1,
+        "word": "which"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "some"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "of"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.6,
+        "word": "you"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "may"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.7,
+        "word": "have"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.9,
+        "word": "heard"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.2,
+        "word": "from"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 6.0,
+        "word": "and"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.2,
+        "word": "since"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.4,
+        "word": "the"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.9,
+        "word": "electrons"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "are"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 8.3,
+        "word": "so-called"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 9.3,
+        "word": "fermions."
+      }
+    ],
+    "length": 9.300000000000011
+  },
+  {
+    "id": 16,
+    "start": 198.9,
+    "end": 237.9,
+    "text": "The fermions are quantum particles that don't like each other so they stay apart and you can only understand this via quantum theory this sea of electrons is not created in classical physics world, but we're not going to cover this material in this particular course number 6 on our list is smoke detectors meant out of realize but every smoke detector has got some radioactive material in it the smoke detectors use this radioactive element, which is called americium this material emits alpha particles and the alpha particles create a current",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "The"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.9,
+        "word": "fermions"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "are"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.4,
+        "word": "quantum"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.9,
+        "word": "particles"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "that"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "don't"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "like"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "each"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "other"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.0,
+        "word": "so"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.2,
+        "word": "they"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "stay"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.4,
+        "word": "apart"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 5.2,
+        "word": "and"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.8,
+        "word": "you"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "can"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.2,
+        "word": "only"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.9,
+        "word": "understand"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "this"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.6,
+        "word": "via"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.1,
+        "word": "quantum"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.6,
+        "word": "theory"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.9,
+        "word": "this"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 11.0,
+        "word": "sea"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.1,
+        "word": "of"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.2,
+        "word": "electrons"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 12.0,
+        "word": "is"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.3,
+        "word": "not"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.7,
+        "word": "created"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.1,
+        "word": "in"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 14.4,
+        "word": "classical"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.8,
+        "word": "physics"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.3,
+        "word": "world,"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 16.3,
+        "word": "but"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 16.4,
+        "word": "we're"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 16.5,
+        "word": "not"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 16.7,
+        "word": "going"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 16.7,
+        "word": "to"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 16.9,
+        "word": "cover"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.1,
+        "word": "this"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.7,
+        "word": "material"
+      },
+      {
+        "startTime": 17.7,
+        "endTime": 17.8,
+        "word": "in"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 17.9,
+        "word": "this"
+      },
+      {
+        "startTime": 17.9,
+        "endTime": 18.4,
+        "word": "particular"
+      },
+      {
+        "startTime": 18.4,
+        "endTime": 19.0,
+        "word": "course"
+      },
+      {
+        "startTime": 19.0,
+        "endTime": 19.7,
+        "word": "number"
+      },
+      {
+        "startTime": 19.7,
+        "endTime": 20.0,
+        "word": "6"
+      },
+      {
+        "startTime": 20.0,
+        "endTime": 20.2,
+        "word": "on"
+      },
+      {
+        "startTime": 20.2,
+        "endTime": 20.3,
+        "word": "our"
+      },
+      {
+        "startTime": 20.3,
+        "endTime": 20.8,
+        "word": "list"
+      },
+      {
+        "startTime": 20.8,
+        "endTime": 21.3,
+        "word": "is"
+      },
+      {
+        "startTime": 21.3,
+        "endTime": 21.7,
+        "word": "smoke"
+      },
+      {
+        "startTime": 21.7,
+        "endTime": 22.5,
+        "word": "detectors"
+      },
+      {
+        "startTime": 22.5,
+        "endTime": 22.9,
+        "word": "meant"
+      },
+      {
+        "startTime": 22.9,
+        "endTime": 23.0,
+        "word": "out"
+      },
+      {
+        "startTime": 23.0,
+        "endTime": 23.1,
+        "word": "of"
+      },
+      {
+        "startTime": 23.1,
+        "endTime": 23.6,
+        "word": "realize"
+      },
+      {
+        "startTime": 23.6,
+        "endTime": 23.7,
+        "word": "but"
+      },
+      {
+        "startTime": 23.7,
+        "endTime": 23.9,
+        "word": "every"
+      },
+      {
+        "startTime": 23.9,
+        "endTime": 24.2,
+        "word": "smoke"
+      },
+      {
+        "startTime": 24.2,
+        "endTime": 24.7,
+        "word": "detector"
+      },
+      {
+        "startTime": 24.7,
+        "endTime": 24.9,
+        "word": "has"
+      },
+      {
+        "startTime": 24.9,
+        "endTime": 25.1,
+        "word": "got"
+      },
+      {
+        "startTime": 25.1,
+        "endTime": 25.4,
+        "word": "some"
+      },
+      {
+        "startTime": 25.4,
+        "endTime": 26.2,
+        "word": "radioactive"
+      },
+      {
+        "startTime": 26.2,
+        "endTime": 27.1,
+        "word": "material"
+      },
+      {
+        "startTime": 27.1,
+        "endTime": 27.2,
+        "word": "in"
+      },
+      {
+        "startTime": 27.2,
+        "endTime": 27.4,
+        "word": "it"
+      },
+      {
+        "startTime": 27.4,
+        "endTime": 28.4,
+        "word": "the"
+      },
+      {
+        "startTime": 28.4,
+        "endTime": 28.7,
+        "word": "smoke"
+      },
+      {
+        "startTime": 28.7,
+        "endTime": 29.2,
+        "word": "detectors"
+      },
+      {
+        "startTime": 29.2,
+        "endTime": 29.5,
+        "word": "use"
+      },
+      {
+        "startTime": 29.5,
+        "endTime": 29.6,
+        "word": "this"
+      },
+      {
+        "startTime": 29.6,
+        "endTime": 30.1,
+        "word": "radioactive"
+      },
+      {
+        "startTime": 30.1,
+        "endTime": 30.8,
+        "word": "element,"
+      },
+      {
+        "startTime": 30.8,
+        "endTime": 31.0,
+        "word": "which"
+      },
+      {
+        "startTime": 31.0,
+        "endTime": 31.1,
+        "word": "is"
+      },
+      {
+        "startTime": 31.1,
+        "endTime": 31.4,
+        "word": "called"
+      },
+      {
+        "startTime": 31.4,
+        "endTime": 32.3,
+        "word": "americium"
+      },
+      {
+        "startTime": 32.3,
+        "endTime": 33.7,
+        "word": "this"
+      },
+      {
+        "startTime": 33.7,
+        "endTime": 34.2,
+        "word": "material"
+      },
+      {
+        "startTime": 34.2,
+        "endTime": 34.3,
+        "word": "emits"
+      },
+      {
+        "startTime": 34.3,
+        "endTime": 34.7,
+        "word": "alpha"
+      },
+      {
+        "startTime": 34.7,
+        "endTime": 35.6,
+        "word": "particles"
+      },
+      {
+        "startTime": 35.6,
+        "endTime": 36.2,
+        "word": "and"
+      },
+      {
+        "startTime": 36.2,
+        "endTime": 36.3,
+        "word": "the"
+      },
+      {
+        "startTime": 36.3,
+        "endTime": 36.6,
+        "word": "alpha"
+      },
+      {
+        "startTime": 36.6,
+        "endTime": 36.7,
+        "word": "particles"
+      },
+      {
+        "startTime": 36.7,
+        "endTime": 38.3,
+        "word": "create"
+      },
+      {
+        "startTime": 38.3,
+        "endTime": 38.4,
+        "word": "a"
+      },
+      {
+        "startTime": 38.4,
+        "endTime": 39.0,
+        "word": "current"
+      }
+    ],
+    "length": 39.0
+  },
+  {
+    "id": 17,
+    "start": 237.9,
+    "end": 241.0,
+    "text": " That goes between two.",
+    "words": [
+      {
+        "startTime": 1.0,
+        "endTime": 1.5,
+        "word": "That"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.9,
+        "word": "goes"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.4,
+        "word": "between"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.1,
+        "word": "two."
+      }
+    ],
+    "length": 3.0999999999999943
+  },
+  {
+    "id": 18,
+    "start": 241.0,
+    "end": 252.1,
+    "text": " Electrical plates that are held at different voltages and because the americium releases these alpha particles at a fairly constant rate, even though each releases random.",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 2.1,
+        "word": "Electrical"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "plates"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "that"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.8,
+        "word": "are"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.1,
+        "word": "held"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.1,
+        "word": "at"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.5,
+        "word": "different"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.1,
+        "word": "voltages"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.4,
+        "word": "and"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.9,
+        "word": "because"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.1,
+        "word": "the"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.8,
+        "word": "americium"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.3,
+        "word": "releases"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.4,
+        "word": "these"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.8,
+        "word": "alpha"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.3,
+        "word": "particles"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "at"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "a"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.3,
+        "word": "fairly"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.7,
+        "word": "constant"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.3,
+        "word": "rate,"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.5,
+        "word": "even"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.7,
+        "word": "though"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.0,
+        "word": "each"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.5,
+        "word": "releases"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.1,
+        "word": "random."
+      }
+    ],
+    "length": 11.099999999999994
+  },
+  {
+    "id": 19,
+    "start": 252.1,
+    "end": 263.0,
+    "text": "The current flow is a fairly constant current when there's no smoke around but when the smoke enters the Chamber of the current changes and that allows you to detect the smoke",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "The"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.1,
+        "word": "current"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "flow"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "is"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.1,
+        "word": "a"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "fairly"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.9,
+        "word": "constant"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.8,
+        "word": "current"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "when"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "there's"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "no"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "smoke"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.0,
+        "word": "around"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.7,
+        "word": "but"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.8,
+        "word": "when"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "the"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.2,
+        "word": "smoke"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.6,
+        "word": "enters"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.7,
+        "word": "the"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.2,
+        "word": "Chamber"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.3,
+        "word": "of"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "the"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.9,
+        "word": "current"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.8,
+        "word": "changes"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.3,
+        "word": "and"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.5,
+        "word": "that"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.8,
+        "word": "allows"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 9.9,
+        "word": "you"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 9.9,
+        "word": "to"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.4,
+        "word": "detect"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.5,
+        "word": "the"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.9,
+        "word": "smoke"
+      }
+    ],
+    "length": 10.900000000000006
+  },
+  {
+    "id": 20,
+    "start": 263.0,
+    "end": 278.6,
+    "text": " this radioactive decay of americium as in the radioactive decay of any element is a purely Quantum phenomenon, but it's not one that we're going to discuss in detail in this class know it however that because smoke detectors do contain this radioactive material.",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "this"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.3,
+        "word": "radioactive"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.8,
+        "word": "decay"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "of"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.7,
+        "word": "americium"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "as"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "in"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.0,
+        "word": "the"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.6,
+        "word": "radioactive"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "decay"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.0,
+        "word": "of"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.3,
+        "word": "any"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "element"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.9,
+        "word": "is"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "a"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.3,
+        "word": "purely"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.7,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.0,
+        "word": "phenomenon,"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.9,
+        "word": "but"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.0,
+        "word": "it's"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.2,
+        "word": "not"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.4,
+        "word": "one"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.5,
+        "word": "that"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.6,
+        "word": "we're"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.7,
+        "word": "going"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.8,
+        "word": "to"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.1,
+        "word": "discuss"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.3,
+        "word": "in"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.6,
+        "word": "detail"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.7,
+        "word": "in"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.8,
+        "word": "this"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.3,
+        "word": "class"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 11.1,
+        "word": "know"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.2,
+        "word": "it"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.5,
+        "word": "however"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 12.0,
+        "word": "that"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.6,
+        "word": "because"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 13.0,
+        "word": "smoke"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.4,
+        "word": "detectors"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 13.7,
+        "word": "do"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.3,
+        "word": "contain"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.4,
+        "word": "this"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.8,
+        "word": "radioactive"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.6,
+        "word": "material."
+      }
+    ],
+    "length": 15.600000000000023
+  },
+  {
+    "id": 21,
+    "start": 278.6,
+    "end": 293.1,
+    "text": "You should never dispose of them in the garbage, but you need to take them to the appropriate hazardous waste disposal location for they can properly handle the radiation component of the smoke detector.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "You"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.2,
+        "word": "should"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.4,
+        "word": "never"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 1.0,
+        "word": "dispose"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "of"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "them"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "in"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.4,
+        "word": "the"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.7,
+        "word": "garbage,"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "but"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "you"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "need"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.3,
+        "word": "to"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.6,
+        "word": "take"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.6,
+        "word": "them"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "to"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.6,
+        "word": "the"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.8,
+        "word": "appropriate"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.7,
+        "word": "hazardous"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.2,
+        "word": "waste"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.6,
+        "word": "disposal"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.7,
+        "word": "location"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.3,
+        "word": "for"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "they"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "can"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.7,
+        "word": "properly"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.9,
+        "word": "handle"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.1,
+        "word": "the"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 10.3,
+        "word": "radiation"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 13.4,
+        "word": "component"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 13.6,
+        "word": "of"
+      },
+      {
+        "startTime": 13.6,
+        "endTime": 13.7,
+        "word": "the"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.0,
+        "word": "smoke"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.5,
+        "word": "detector."
+      }
+    ],
+    "length": 14.5
+  }
+]
